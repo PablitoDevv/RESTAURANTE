@@ -37,9 +37,9 @@ Para probar nuestro proyecto. Abriremos cualquier navegador y escribiremos: loca
 Estas son las crédenciales de los empleados
 
 
- 1 | Juan     | 1234abcd.. | Online | chef   |
- 4 | Pedro    | 1234abcd.. | Online | Mesero |
-10 | Chileno  | 1234abcd.. | Online | Mesero |
+Usuario: Juan  Contraseña: 1234abcd.. Cargo: Chef  
+Usuario: Pedro Contraseña: 1234abcd..  Cargo: Mesero  
+Usuario: Chileno Contraseña: 1234abcd.. Cargo: Mesero 
 
 
 Y estos son de los administradores
