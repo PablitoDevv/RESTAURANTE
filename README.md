@@ -35,22 +35,18 @@ Ya estamos terminando, ya tenemos la base de datos creada y el visual studio cod
 Para probar nuestro proyecto. Abriremos cualquier navegador y escribiremos: localhost/restaurante
 
 Estas son las crédenciales de los empleados
-+---------+----------+------------+--------+--------+
-| staffID | username | password   | status | role   |
-+---------+----------+------------+--------+--------+
-|       1 | Juan     | 1234abcd.. | Online | chef   |
-|       4 | Pedro    | 1234abcd.. | Online | Mesero |
-|      10 | Chileno  | 1234abcd.. | Online | Mesero |
-+---------+----------+------------+--------+--------+
+
+
+ 1 | Juan     | 1234abcd.. | Online | chef   |
+ 4 | Pedro    | 1234abcd.. | Online | Mesero |
+10 | Chileno  | 1234abcd.. | Online | Mesero |
+
 
 Y estos son de los administradores
 
-+----+----------+------------+
-| ID | username | password   |
-+----+----------+------------+
 |  0 | admin    | 1234abcd.. |
 |  1 | Chileno  | 1234       |
-+----+----------+------------+
+
 
 Espero que este proyecto te sea útil!
 
