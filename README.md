@@ -44,9 +44,8 @@ Usuario: Chileno Contraseña: 1234abcd.. Cargo: Mesero
 
 Y estos son de los administradores
 
-|  0 | admin    | 1234abcd.. |
-|  1 | Chileno  | 1234       |
-
+Usuario: admin Contraseña: 1234abcd..
+Usuario: Chileno  Contraseña: 1234      
 
 Espero que este proyecto te sea útil!
 
