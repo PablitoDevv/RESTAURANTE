@@ -12,10 +12,10 @@ A) DESCOMPRIMIR ARCHIVO PARA USARLO EN VISUAL STUDIO CODE
 
 1°Descomprimir archivo RESTAURANTE en carpeta htdocs de xampp para poder usarlo
 
-Ejemplo: C:\xampp\htdocs\
+Ejemplo de ubicación: C:\xampp\htdocs\
 
 
-B) Base de datos en mysql
+B) ENCENDER BASE DE DATOS CON MYSQL
 
 1°Abrir xampp
 2°Iniciar apache y MYSQL
@@ -24,8 +24,7 @@ B) Base de datos en mysql
 
 Presionar arriba a la izquierda "Nueva", como nombre de base de datos colocaremos "restaurante" y le damos a crear.
 
-5° Una vez creada la base de datos, importaremos su archivo SQL. Presionaremos nuestra base de datos creada, importar archiv "restaurante.sql" de winrar extraido y presionar
-botón importar.
+5° Una vez creada la base de datos, importaremos su archivo SQL que está en el winrar que hemos descargado anteriormente. Presionaremos nuestra base de datos creada, e importaremos el archivo "restaurante.sql" en el phpmyadmin.
 
 6°Abrir cmd y escribir: cd /xampp/htdocs/restaurante
 y escribir code .
